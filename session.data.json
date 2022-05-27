@@ -13,23 +13,8 @@
     "signedIdentityKey": {
       "private": {
         "type": "Buffer",
-        "data": "EAkC
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    },
+        "data": "EAkCn13kb734Wbr5gwmU9lK7wcvN4eAujZKY4/wt6lA="
+      },
       "public": {
         "type": "Buffer",
         "data": "fVxM/EguPO0KXlAGLHAWt1UQP/tUI3LykhEybQ9UKyU="
@@ -481,4 +466,13 @@
         },
         "indexValueMap": {
           "BvJXi9gqVPmRfPq0nqUB868EQ3unKcRcEbWy1IJjqXk=": {
-            
+            "valueMac": {
+              "type": "Buffer",
+              "data": "OTJ4RB+aQ9FzisCOnm/2W0ogf0Ud8bB/BzAB4JkWrwc="
+            }
+          }
+        }
+      }
+    }
+  }
+}
