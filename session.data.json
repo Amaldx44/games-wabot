@@ -1,4 +1,19 @@
-
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "uNrIQwMr9B0hQQVTHW+HOh0pGSJYe97ZQhBKrqgIUVc="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "doO2f6qaZ9y9EIhUFiufygqAvySykk0Trru2RTk5gws="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "EAkC
 
 
 
